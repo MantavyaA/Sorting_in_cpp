@@ -1,8 +1,5 @@
 # Sorting_in_cpp
 
-# Sorting Algorithms Project
-
----
 
 ## Aim
 To implement and understand various sorting algorithms using C++, analyze their time and space complexities, and compare their performance based on different input sizes.
