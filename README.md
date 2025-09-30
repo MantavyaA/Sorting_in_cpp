@@ -133,8 +133,3 @@ Through this project, we have successfully implemented and compared multiple sor
 4. **Merge Sort**  
    - Guarantees **O(n log n)** performance regardless of input.  
    - Stable and well-suited for cases where element order matters or when sorting linked lists.  
-
-### Final Remark  
-The choice of sorting algorithm depends on the dataset size, stability requirements, and memory constraints.  
-- For **small datasets**, simpler algorithms may suffice.  
-- For **large datasets**, Merge Sort or Quick Sort is preferable.  
